@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Downloads/dictionary_small.txt" />
+  </Folder>
+  <Project Path="LAB 6 Mk.7/LAB 6 Mk.7.vcxproj" />
+</Solution>
